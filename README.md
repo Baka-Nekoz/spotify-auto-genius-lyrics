@@ -31,7 +31,7 @@ Enjoy!!!
 
 > **Note 2:** also make sure the browser your using to display the lyrics on is also your OS default browser
 
-> **Note 3:** I am **NOT** reponsible if my script **CTRL + W** your 1800+ lines unsaved CSS opened in your notepad++ window like bro rtfm (and stop using notepad++ istg)
+> **Note 3:** I am **NOT** reponsible if my script accidentaly **CTRL + W** your 1800+ lines unsaved CSS opened in your notepad++ window like bro rtfm (and stop using notepad++ istg)
 
 ## How does it work ?
 
